@@ -35,7 +35,7 @@ print((1-5)**(9%4)+(96//7)*(48/5))
 #endregion
 
 
-
+print("fkkfkfkf")
 
 
 
