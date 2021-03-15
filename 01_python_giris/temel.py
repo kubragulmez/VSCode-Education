@@ -1,5 +1,5 @@
 #region escape 
-""""""
+"""
 print("Ecodation\teğitim\tkurumları")
 print("ecodation\neğitim\nkurumları")
 print("merhaba \"ecodation\"")
@@ -7,7 +7,7 @@ print("Hayatta","En","Hakiki", end=">")
 print("Mürşit", "İlimdir")
 print("\"Ege\'nin\"", "\"İncisi\"", "\"İzmir!\"", sep="&")
 print("Dünya\'nın", "En", "Güzel", "Şehri", "İstanbul\'dur", sep="*", end=".")
-
+"""
 #endregion
 #region veri tipleri
 """
