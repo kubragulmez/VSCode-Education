@@ -49,5 +49,18 @@ if bavulAgirligi>15:
 print(f"Güncel bilet fiyatı {biletFiyati*1.18}")
 """
 
+"""
+kargo_bedeli = 7.5
+fiyat = float(input("Lütfen fiyat bilgisi giriniz: ")) 
+toplam_fiyat = fiyat + kargo_bedeli
+if fiyat >= 250:
+    toplam_fiyat = fiyat
+print(f"Ödenecek tutar {toplam_fiyat} ")
+
+
+"""
+
+
+
 
 
