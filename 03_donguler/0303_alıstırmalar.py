@@ -146,23 +146,24 @@ while i<=5:
 """
 """
 i, j =0, 0
-while i<=5:
-    while j<=5:
+while i<5:
+    while j<5:
         if i==0:
             print(" * ", end=" ")
-        elif i==5:
+        elif i==4:
             print(" * ", end=" ")
         elif j==0:
             print(" * ", end=" ")
-        elif j==5:
+        elif j==4:
             print(" * ", end=" ")
         else:
-            print("  ", end=" ")
+            print("   ", end=" ")
         j+=1
     j=0
     i+=1
     print()
 """
+
 """
 i, j = 0, 5
 while i<5:
